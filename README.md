@@ -32,10 +32,15 @@ docker login -u HUAWEI_REGISTRY_USER -p HUAWEI_REGISTRY_PASSWORD swr.cn-east-3.m
 ### Fork本项目
 Fork本项目<br>
 #### 启动Action
-进入您自己的项目，点击Action，启用Github Action功能<br>
+进入您自己的项目，点击Setting，启用Github Action功能<br>
 #### 配置环境变量
 进入Settings->Secret and variables->Actions->New Repository secret
+
 ![](doc/配置环境变量.png)
+![](doc/actions_setting1.png)
+![](doc/actions_setting2.png)
+![](doc/actions_setting3.png)
+![](doc/actions_setting4.png)
 将上一步的**四个值**<br>
 HUAWEI_NAME_SPACE,HUAWEI_REGISTRY_USER，HUAWEI_REGISTRY_PASSWORD，HUAWEI_REGISTRY<br>
 配置成环境变量
