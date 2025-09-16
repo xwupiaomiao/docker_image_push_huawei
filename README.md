@@ -37,7 +37,7 @@ Fork本项目<br>
 进入Settings->Secret and variables->Actions->New Repository secret
 
 ![](doc/配置环境变量.png)
-![](doc/actions_settings1.png)
+![](doc/actions_setting1.png)
 ![](doc/actions_setting2.png)
 ![](doc/actions_setting3.png)
 ![](doc/actions_setting4.png)
