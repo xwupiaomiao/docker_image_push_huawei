@@ -19,6 +19,9 @@ https://console.huaweicloud.com/swr/<br>
 用户名（**HUAWEI_REGISTRY_USER**)<br>
 密码（**HUAWEI_REGISTRY_PASSWORD**)<br>
 仓库地址（**HUAWEI_REGISTRY**）<br>
+'''
+docker login -u HUAWEI_REGISTRY_USER -p HUAWEI_REGISTRY_PASSWORD swr.cn-east-3.myhuaweicloud.com
+'''
 注：
 访问密钥文件名为：credentials.csv<br>
 下载到桌面上后导入
