@@ -15,10 +15,13 @@ https://console.huaweicloud.com/swr/<br>
 启用个人实例，创建一个命名空间（**HUAWEI_NAME_SPACE**）
 ![](/doc/NAMESPACE.png)
 
-访问凭证–>获取环境变量<br>
+客户端上传–>生成登陆指令–>长期有效指令–>获取访问密钥–>导入访问密钥<br>
 用户名（**HUAWEI_REGISTRY_USER**)<br>
 密码（**HUAWEI_REGISTRY_PASSWORD**)<br>
 仓库地址（**HUAWEI_REGISTRY**）<br>
+注：
+访问密钥文件名为：credentials.csv<br>
+下载到桌面上后导入
 
 ![](/doc/用户名密码.png)
 
