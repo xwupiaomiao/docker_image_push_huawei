@@ -1,6 +1,6 @@
-# Docker Images Pusher
+# Docker Images Push
 
-使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用<br>
+使用Github Action将国外的Docker镜像转存到华为云私有仓库，供国内服务器使用，免费易用<br>
 - 支持DockerHub, gcr.io, k8s.io, ghcr.io等任意仓库<br>
 - 支持最大10GB的大型镜像<br>
 - 使用华为云的官方线路，速度快<br>
