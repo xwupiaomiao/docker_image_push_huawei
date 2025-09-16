@@ -24,7 +24,7 @@ docker login -u HUAWEI_REGISTRY_USER -p HUAWEI_REGISTRY_PASSWORD swr.cn-east-3.m
 ```
 注：
 访问密钥文件名为：credentials.csv<br>
-下载到桌面上后导入
+下载到桌面上后导入<br>
 
 ![](/doc/用户名密码.png)
 
@@ -37,12 +37,12 @@ Fork本项目<br>
 进入Settings->Secret and variables->Actions->New Repository secret
 
 ![](doc/配置环境变量.png)
-![](doc/actions_setting1.png)
+![](doc/actions_settings1.png)
 ![](doc/actions_setting2.png)
 ![](doc/actions_setting3.png)
 ![](doc/actions_setting4.png)
 将上一步的**四个值**<br>
-HUAWEI_NAME_SPACE,HUAWEI_REGISTRY_USER，HUAWEI_REGISTRY_PASSWORD，HUAWEI_REGISTRY<br>
+HUAWEI_NAME_SPACE，HUAWEI_REGISTRY_USER，HUAWEI_REGISTRY_PASSWORD，HUAWEI_REGISTRY<br>
 配置成环境变量
 
 ### 添加镜像
