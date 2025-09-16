@@ -13,7 +13,7 @@
 登录华为云容器镜像服务<br>
 https://console.huaweicloud.com/swr/<br>
 启用个人实例，创建一个命名空间（**HUAWEI_NAME_SPACE**）
-![](/doc/命名空间.png)
+![](/doc/NAMESPACE.png)
 
 访问凭证–>获取环境变量<br>
 用户名（**HUAWEI_REGISTRY_USER**)<br>
